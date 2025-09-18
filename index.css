@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: #111111;
+}
+
+h3{
+    color: #575757;
+    margin: 5px 0;
+    padding: 10px;
+}
+
+p{
+    border: 3px solid #575757;
+    font-size: 100px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    padding-bottom: 0px;
+    background-color: #575757;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button{
+    margin: 10px 0px;
+}
